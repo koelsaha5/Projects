@@ -84,6 +84,7 @@ The app gives a message indicating whether the transaction is predicted to be fr
 ## Machine Learning Workflow
 
 The project follows a basic end-to-end machine learning workflow:
+'''text
 Dataset
    ↓
 Data Exploration
@@ -101,7 +102,7 @@ Save Model Pipeline
 Streamlit Application
    ↓
 Real-time Prediction
-
+'''text
 
 ## What I Learned
 Working on this project helped me understand how a machine learning model can be taken beyond a notebook and turned into a usable application.
